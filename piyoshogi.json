@@ -3,6 +3,12 @@
   "api_name": "ピヨ将棋de対局",
   "game_list": [
     {
+      "tag": [
+        "四間飛車",
+        "高美濃",
+        "船囲い",
+        "勝利"
+      ],
       "kifu_url": "https://raw.githubusercontent.com/h-watanabe-jw/shogi/refs/heads/main/Hwatanabe/piyo_20250611_081037.kif",
       "display_name": "プレイヤー(R0) vs Lv2 ピヨ作(R60)",
       "display_timestamp": 1749595920000
