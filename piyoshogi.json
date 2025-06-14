@@ -1,0 +1,9 @@
+{
+  "api_version": "2020-02-02",
+  "api_name": "ピヨ将棋de対局",
+  "game_list": [
+    "kifu_url": "",
+    "display_name": "プレイヤー(R0) vs Lv2 ピヨ作(R60)",
+    "display_timestamp": 1749595920000
+  ]
+}
